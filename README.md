@@ -15,5 +15,6 @@ Inline code=backtick
 Link:
 {Text that shows}(https://example.com)
 
+
 Image:
 [Alt text](image-link.jpg)
